@@ -1,4 +1,4 @@
-Repo with useful Power BI scripts for migration.
+Power BI useful powershell scripts for Tenant Migration/Report Backup.
 
-Ref
+Reference:
 https://learn.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps

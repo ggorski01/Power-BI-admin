@@ -1,4 +1,4 @@
-#Log in to Power BI Service
+#Log in to Power BI Service. Make sure Azure endpoint is correct for Azure tenant (i.e. GCC High, DOD, Azure Commercial...)
 #Login-PowerBI
 
 #First, Collect all (or one) of the workspaces in a parameter called PBIWorkspace
